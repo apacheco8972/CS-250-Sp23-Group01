@@ -1,4 +1,2 @@
 # CS-250-Sp23-Group01
-Alejandro Pacheco
-Steven Trujillo
-Kelly Aycock
+Repository for upcoming assignments for CS-250 Sp23
